@@ -1,6 +1,6 @@
 ## Maker, Breaker, and Professional Eater of Bread
 
-I'm a Senior SE Instructor at [Kenzie Academy](https://kenzie.academy) teaching Python, Django, Intro to Database Design, and more!
+I'm a Senior Software Engineer at [Building Engines](https://buildingengines.com) working on making property management a lot easier!
 
 ### Some work I'm proud of:
 
