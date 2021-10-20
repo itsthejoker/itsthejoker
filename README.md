@@ -1,6 +1,6 @@
 ## Maker, Breaker, and Professional Eater of Bread
 
-I'm a Senior Software Engineer at [Building Engines](https://buildingengines.com) working on making property management a lot easier!
+I'm just a guy who hopes to leave the world a little better than I found it.
 
 ### Some work I'm proud of:
 
