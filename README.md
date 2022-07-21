@@ -9,7 +9,7 @@ I'm just a guy who hopes to leave the world a little better than I found it.
   - 501(c)3 international nonprofit founded to increase accessibility on the internet by using gamification to power crowdsourced transcriptions of inaccessible content (images, videos, and audio)
   - Home base: https://reddit.com/r/transcribersofreddit
   - Featured in [WIRED](https://www.wired.com/story/online-altruists-are-making-reddit-more-accessible/) and [WIRED UK](https://www.wired.co.uk/article/transcribers-of-reddit)!
-  - over 3500 volunteers, 110,000+ posts transcribed for those who need them
+  - over 5500 volunteers with 255,000+ posts transcribed for those who need them
 
 - [FilamentColors.xyz](https://filamentcolors.xyz)
   - 3D printer filament color matching database
